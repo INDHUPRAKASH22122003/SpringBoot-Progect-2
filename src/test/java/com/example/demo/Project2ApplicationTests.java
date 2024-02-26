@@ -8,6 +8,7 @@ class Project2ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		assertEquals(expectedValue, actualValue);
 	}
 
 }
